@@ -1,1 +1,1 @@
-
+## This code implements the IPP linguistic variable space with three fuzzy functions (e.g., low, medium, and high). Download the three files and place them in a folder to use this code. After that, compile the `main.cc` file and run it, for example, ./main.
