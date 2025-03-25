@@ -1,2 +1,2 @@
 # Book_Fuzzy
-Book: Introduction to Fuzzy Logic with Applications Master of Science in Computer Science
+Book: Introduction to Fuzzy Logic with Applications in Computer Science.
