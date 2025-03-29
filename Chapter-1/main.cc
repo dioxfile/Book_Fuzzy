@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+#include <cstdlib>
 
 using namespace std;
 #include "curva_pertinencia_ipp.h"
