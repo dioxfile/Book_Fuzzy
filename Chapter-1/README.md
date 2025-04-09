@@ -3,5 +3,5 @@
 
 # Figure 1
 <div style="width: 60%; height: 60%">
-![animation](https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-1/IPP.jpeg)
+![](https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-1/IPP.jpeg)
 </div>
