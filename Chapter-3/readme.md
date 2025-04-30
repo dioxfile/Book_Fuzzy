@@ -3,5 +3,9 @@
 ### In Linux systems, you need the following libraries: `build-essential, autoconf, automake, libxmu-dev, xorg-dev, gcc, and g++`. Therefore, in Windows Systems, you need to install Dev-C++.
 
 # Figure 1
-<img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-2/Seno-tri-func.jpg" width=60% height=60%>
+<img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/distancia.jpg" width=60% height=60%>
+# Figure 2
+<img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/velocidade.jpg" width=60% height=60%>
+# Figure 3
+<img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/combus-consumo.jpg" width=60% height=60%>
 
