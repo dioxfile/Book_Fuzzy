@@ -25,10 +25,10 @@ int main(int argc, char **argv)
 	     } else {	 
 			cout<<setprecision(3)<<fixed<<"Distance: u("<<x1<<")Short "<<D.Short(x1) << " and u("<<x1<<")Long: "<<D.Long(x1)<<endl;
 			cout<<setprecision(3)<<fixed<<"Speed: u("<<x2<<")Low "<<S.Low(x2) << " and u("<<x2<<")High: "<<S.High(x2)<<endl;
-     		cout<<"Rule 1: IF Distance is Short("<<D.Short(x1)<<") AND Speed("<<S.Low(x2)<<") is Low ⇒ Maintain Speed"<<endl;
-    		cout<<"Rule 2: IF Distance is Short("<<D.Short(x1)<<") AND Speed("<<S.High(x2)<<") is High ⇒ Decrease Speed"<<endl;
-        	cout<<"Rule 3: IF Distance is Long("<<D.Long(x1)<<") AND Speed("<<S.Low(x2)<<") is Low ⇒ Increase Speed"<<endl;
-        	cout<<"Rule 4: IF Distance is Long("<<D.Long(x1)<<") AND Speed("<<S.High(x2)<<") is High ⇒ Maintain Speed"<<endl; 
+     		cout<<"Rule 1: IF Distance is Short("<<D.Short(x1)<<") AND Speed("<<S.Low(x2)<<") is Low --> Maintain Speed"<<endl;
+    		cout<<"Rule 2: IF Distance is Short("<<D.Short(x1)<<") AND Speed("<<S.High(x2)<<") is High --> Decrease Speed"<<endl;
+        	cout<<"Rule 3: IF Distance is Long("<<D.Long(x1)<<") AND Speed("<<S.Low(x2)<<") is Low --> Increase Speed"<<endl;
+        	cout<<"Rule 4: IF Distance is Long("<<D.Long(x1)<<") AND Speed("<<S.High(x2)<<") is High --> Maintain Speed"<<endl; 
 	    } 
 	  }else 
 	    cout<<"\tUsage.: ./main <Distance> <Speed>"<<endl;		 
