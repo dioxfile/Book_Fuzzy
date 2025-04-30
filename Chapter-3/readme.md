@@ -4,8 +4,10 @@
 
 # Figure 1
 <img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/distancia.jpg" width=60% height=60%>
+
 # Figure 2
 <img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/velocidade.jpg" width=60% height=60%>
+
 # Figure 3
 <img src="https://github.com/dioxfile/Book_Fuzzy/blob/main/Chapter-3/aceleracao.jpg" width=60% height=60%>
 
